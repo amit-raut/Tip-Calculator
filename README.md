@@ -27,7 +27,6 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<a href="http://imgur.com/XAs4hIZ"><img src="http://i.imgur.com/XAs4hIZ.gif" title="source: imgur.com" /></a>
 <img src='http://i.imgur.com/XAs4hIZ.gif' title='TipCalc- My First iOS Application' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
